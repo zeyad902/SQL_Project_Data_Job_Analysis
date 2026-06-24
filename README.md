@@ -114,11 +114,11 @@ The pattern is clear: the best-paying jobs want you to code (Python, SQL, R), kn
 
 | File | Description |
 |------|-------------|
-| [`top_paying_jobs.sql`](sql_queris/top_paying_jobs.sql) | Highest-paying remote DA roles with company names |
-| [`top_skills_for_job.sql`](sql_queris/top_skills_for_job.sql) | Skills breakdown for each top-paying position |
-| [`top_skills_on_salary.sql`](sql_queris/top_skills_on_salary.sql) | Skills ranked by average salary, remote only |
-| [`top_demand_skills.sql`](sql_queris/top_demand_skills.sql) | Most frequently requested skills in all DA postings |
-| [`most_valuable_skill.sql`](sql_queris/most_valuable_skill.sql) | The overlap: high salary + high demand |
+| [`top_paying_jobs.sql`](sql_queries/top_paying_jobs.sql) | Highest-paying remote DA roles with company names |
+| [`top_skills_for_job.sql`](sql_queries/top_skills_for_job.sql) | Skills breakdown for each top-paying position |
+| [`top_skills_on_salary.sql`](sql_queries/top_skills_on_salary.sql) | Skills ranked by average salary, remote only |
+| [`top_demand_skills.sql`](sql_queries/top_demand_skills.sql) | Most frequently requested skills in all DA postings |
+| [`most_valuable_skill.sql`](sql_queries/most_valuable_skill.sql) | The overlap: high salary + high demand |
 
 ---
 
