@@ -124,9 +124,9 @@ The pattern is clear: the best-paying jobs want you to code (Python, SQL, R), kn
 
 ## How to Use This
 
-If you're trying to break into data analytics or level up your current role, start with the [`most_valuable_skill.sql`](most_valuable_skill.sql) query results. Pick a skill from that list that you don't have yet, and build a project around it. That's what I'm doing next with Snowflake.
+If you're trying to break into data analytics or level up your current role, start with the [`most_valuable_skill.sql`](sql_queries/most_valuable_skill.sql) query results. Pick a skill from that list that you don't have yet, and build a project around it. That's what I'm doing next with Snowflake.
 
-If you're hiring, the [`top_skills_for_job.sql`](top_skills_for_job.sql) query gives you a realistic picture of what the market actually expects at different salary levels.
+If you're hiring, the [`top_skills_for_job.sql`](sql_queries/top_skills_for_job.sql) query gives you a realistic picture of what the market actually expects at different salary levels.
 
 ---
 
